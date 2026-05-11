@@ -108,67 +108,67 @@ Built an interactive dashboard featuring:
 ### Insights
 1. Low Subscription Adoption
 
-68.42% customers are non-subscribers, only 31.58% are subscribers.
-Opportunity to increase retention and recurring revenue.
+  -68.42% customers are non-subscribers, only 31.58% are subscribers.
+  -Opportunity to increase retention and recurring revenue.
 
 2. Electronics Generates Highest Revenue
 
-Electronics contributes the most revenue (~$500K).
-High-value products make it the main profit-driving category.
+  -Electronics contributes the most revenue (~$500K).
+  -High-value products make it the main profit-driving category.
 
 3. Clothing Has Highest Sales Volume
 
-Clothing has the highest number of sales (~1,900 units).
-Drives customer traffic and repeat purchases.
+  -Clothing has the highest number of sales (~1,900 units).
+  -Drives customer traffic and repeat purchases.
 
 4. Outerwear Underperforms
 
-Lowest sales and revenue among all categories.
-May need better pricing, marketing, or product review.
+  -Lowest sales and revenue among all categories.
+  -May need better pricing, marketing, or product review.
 
 5. Seniors Generate Highest Revenue
 
-Senior customers spend the most overall.
-Targeted campaigns can maximize profits.
+  -Senior customers spend the most overall.
+  -Targeted campaigns can maximize profits.
 
 6. Young Adults Buy Most Frequently
 
-Highest number of purchases but lower spending per order.
-Good opportunity for upselling.
+  -Highest number of purchases but lower spending per order.
+  -Good opportunity for upselling.
 
 7. Customer Satisfaction Needs Improvement
 
-Average rating is 3.62/5.
-Improving service and product quality can boost loyalty.
+  -Average rating is 3.62/5.
+  -Improving service and product quality can boost loyalty.
 
 ### Recommendations
 1. Increase Subscription Sign-ups
 
-Offer discounts, rewards, and exclusive subscriber benefits.
+  -Offer discounts, rewards, and exclusive subscriber benefits.
 
 2. Expand Electronics Category
 
-Add more products, bundles, and premium offers.
+  -Add more products, bundles, and premium offers.
 
 3. Improve Clothing Profitability
 
-Use cross-selling and premium product recommendations.
+  -Use cross-selling and premium product recommendations.
 
 4. Optimize Outerwear Category
 
-Review pricing, promote seasonal sales, or remove weak products.
+  -Review pricing, promote seasonal sales, or remove weak products.
 
 5. Focus on Senior Customers
 
-Provide personalized offers and VIP experiences.
+  -Provide personalized offers and VIP experiences.
 
 6. Upsell Young Adults
 
-Offer bundles and premium suggestions.
+  -Offer bundles and premium suggestions.
 
 7. Improve Customer Satisfaction
 
-Enhance service, shipping, and collect customer feedback.
+  -Enhance service, shipping, and collect customer feedback.
 
 ---
 
